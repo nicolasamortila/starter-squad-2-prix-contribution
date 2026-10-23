@@ -1,0 +1,232 @@
+[
+  {
+    "event_id": "evt-0001",
+    "platform": "ios",
+    "event": "tile_viewed",
+    "occurred_at": "2026-10-21T18:10:00+02:00",
+    "reservation_id": "RES-104233",
+    "hotel_id": "VEL-LYO-02",
+    "offer_id": "LCO-104233"
+  },
+  {
+    "event_id": "evt-0002",
+    "platform": "ios",
+    "event": "offer_viewed",
+    "occurred_at": "2026-10-21T18:10:00+02:00",
+    "reservation_id": "RES-104233",
+    "hotel_id": "VEL-LYO-02",
+    "offer_id": "LCO-104233"
+  },
+  {
+    "event_id": "evt-0003",
+    "platform": "ios",
+    "event": "slot_selected",
+    "occurred_at": "2026-10-21T18:10:00+02:00",
+    "reservation_id": "RES-104233",
+    "hotel_id": "VEL-LYO-02",
+    "offer_id": "LCO-104233",
+    "slot": "13:00",
+    "amount_minor": 3500
+  },
+  {
+    "event_id": "evt-0004",
+    "platform": "ios",
+    "event": "purchase_started",
+    "occurred_at": "2026-10-21T18:10:00+02:00",
+    "reservation_id": "RES-104233",
+    "hotel_id": "VEL-LYO-02",
+    "offer_id": "LCO-104233",
+    "slot": "13:00",
+    "amount_minor": 3500,
+    "currency": "EUR",
+    "mode": "ONLINE"
+  },
+  {
+    "event_id": "evt-0005",
+    "platform": "ios",
+    "event": "purchase_completed",
+    "occurred_at": "2026-10-21T18:10:00+02:00",
+    "reservation_id": "RES-104233",
+    "hotel_id": "VEL-LYO-02",
+    "offer_id": "LCO-104233",
+    "payment_id": "PAY-104233",
+    "slot": "13:00",
+    "amount_minor": 3500,
+    "currency": "EUR",
+    "mode": "ONLINE"
+  },
+  {
+    "event_id": "evt-0006",
+    "platform": "ios",
+    "event": "tile_viewed",
+    "occurred_at": "2026-10-22T18:11:00+02:00",
+    "reservation_id": "RES-104234",
+    "hotel_id": "VEL-PAR-01",
+    "offer_id": "LCO-104234"
+  },
+  {
+    "event_id": "evt-0007",
+    "platform": "ios",
+    "event": "offer_viewed",
+    "occurred_at": "2026-10-22T18:11:00+02:00",
+    "reservation_id": "RES-104234",
+    "hotel_id": "VEL-PAR-01",
+    "offer_id": "LCO-104234"
+  },
+  {
+    "event_id": "evt-0008",
+    "platform": "ios",
+    "event": "slot_selected",
+    "occurred_at": "2026-10-22T18:11:00+02:00",
+    "reservation_id": "RES-104234",
+    "hotel_id": "VEL-PAR-01",
+    "offer_id": "LCO-104234",
+    "slot": "14:00",
+    "amount_minor": 4500
+  },
+  {
+    "event_id": "evt-0009",
+    "platform": "ios",
+    "event": "purchase_started",
+    "occurred_at": "2026-10-22T18:11:00+02:00",
+    "reservation_id": "RES-104234",
+    "hotel_id": "VEL-PAR-01",
+    "offer_id": "LCO-104234",
+    "slot": "14:00",
+    "amount_minor": 4500,
+    "currency": "EUR",
+    "mode": "AT_HOTEL"
+  },
+  {
+    "event_id": "evt-0010",
+    "platform": "ios",
+    "event": "purchase_completed",
+    "occurred_at": "2026-10-22T18:11:00+02:00",
+    "reservation_id": "RES-104234",
+    "hotel_id": "VEL-PAR-01",
+    "offer_id": "LCO-104234",
+    "payment_id": "PAY-104234",
+    "slot": "14:00",
+    "amount_minor": 4500,
+    "currency": "EUR",
+    "mode": "AT_HOTEL"
+  },
+  {
+    "event_id": "evt-0011",
+    "platform": "ios",
+    "event": "tile_viewed",
+    "occurred_at": "2026-10-23T18:12:00+02:00",
+    "reservation_id": "RES-104235",
+    "hotel_id": "VEL-MRS-04",
+    "offer_id": "LCO-104235"
+  },
+  {
+    "event_id": "evt-0012",
+    "platform": "ios",
+    "event": "offer_viewed",
+    "occurred_at": "2026-10-23T18:12:00+02:00",
+    "reservation_id": "RES-104235",
+    "hotel_id": "VEL-MRS-04",
+    "offer_id": "LCO-104235"
+  },
+  {
+    "event_id": "evt-0013",
+    "platform": "ios",
+    "event": "slot_selected",
+    "occurred_at": "2026-10-23T18:12:00+02:00",
+    "reservation_id": "RES-104235",
+    "hotel_id": "VEL-MRS-04",
+    "offer_id": "LCO-104235",
+    "slot": "15:00",
+    "amount_minor": 6000
+  },
+  {
+    "event_id": "evt-0014",
+    "platform": "ios",
+    "event": "purchase_started",
+    "occurred_at": "2026-10-23T18:12:00+02:00",
+    "reservation_id": "RES-104235",
+    "hotel_id": "VEL-MRS-04",
+    "offer_id": "LCO-104235",
+    "slot": "15:00",
+    "amount_minor": 6000,
+    "currency": "EUR",
+    "mode": "ONLINE"
+  },
+  {
+    "event_id": "evt-0015",
+    "platform": "ios",
+    "event": "purchase_failed",
+    "occurred_at": "2026-10-23T18:12:00+02:00",
+    "reservation_id": "RES-104235",
+    "hotel_id": "VEL-MRS-04",
+    "offer_id": "LCO-104235",
+    "error_code": "LCO_PAYMENT_DECLINED",
+    "mode": "ONLINE"
+  },
+  {
+    "event_id": "evt-0016",
+    "platform": "ios",
+    "event": "tile_viewed",
+    "occurred_at": "2026-10-24T18:13:00+02:00",
+    "reservation_id": "RES-104238",
+    "hotel_id": "VEL-LYO-02",
+    "offer_id": "LCO-104238"
+  },
+  {
+    "event_id": "evt-0017",
+    "platform": "ios",
+    "event": "offer_viewed",
+    "occurred_at": "2026-10-24T18:13:00+02:00",
+    "reservation_id": "RES-104238",
+    "hotel_id": "VEL-LYO-02",
+    "offer_id": "LCO-104238"
+  },
+  {
+    "event_id": "evt-0018",
+    "platform": "ios",
+    "event": "slot_selected",
+    "occurred_at": "2026-10-24T18:13:00+02:00",
+    "reservation_id": "RES-104238",
+    "hotel_id": "VEL-LYO-02",
+    "offer_id": "LCO-104238",
+    "slot": "12:00",
+    "amount_minor": 2500
+  },
+  {
+    "event_id": "evt-0019",
+    "platform": "ios",
+    "event": "purchase_started",
+    "occurred_at": "2026-10-24T18:13:00+02:00",
+    "reservation_id": "RES-104238",
+    "hotel_id": "VEL-LYO-02",
+    "offer_id": "LCO-104238",
+    "slot": "12:00",
+    "amount_minor": 2500,
+    "currency": "EUR",
+    "mode": "ONLINE"
+  },
+  {
+    "event_id": "evt-0020",
+    "platform": "ios",
+    "event": "purchase_completed",
+    "occurred_at": "2026-10-24T18:13:00+02:00",
+    "reservation_id": "RES-104238",
+    "hotel_id": "VEL-LYO-02",
+    "offer_id": "LCO-104238",
+    "payment_id": "PAY-104238",
+    "slot": "12:00",
+    "amount_minor": 2500,
+    "currency": "EUR",
+    "mode": "ONLINE"
+  },
+  {
+    "event_id": "evt-0021",
+    "platform": "ios",
+    "event": "tile_viewed",
+    "occurred_at": "2026-10-25T18:14:00+02:00",
+    "reservation_id": "RES-104237",
+    "hotel_id": "VEL-NCE-05",
+    "offer_id": "LCO-104237"
+  }
+]
